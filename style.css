@@ -331,11 +331,10 @@ header a {
     font-weight: bold;
     font-size: 24px;
     font-family: instrument sans, sans-serif;
-    padding: 54px 0px 0px 50px;
-    max-width: 90%;
+    padding-top: 60px;
+    max-width: 100%;
     line-height: 1.4;
     text-transform: uppercase;
-    margin-left: 250px;
 }
 
 .Pagina_centrale_Giochi {

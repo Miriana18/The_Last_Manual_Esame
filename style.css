@@ -408,7 +408,7 @@ header a {
     align-content: start;
     grid-template-columns: repeat(auto-fit, minmax(200px, 190px));
     gap: 35px;
-    padding: 30px 16px 0px 16px;
+    padding: 30px 14px 0px 14px;
 }
 
 .centro_della_home1 p {

@@ -1063,7 +1063,7 @@ footer nav a {
     justify-items: center;
     align-items: center;
     align-content: start;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 170px));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 160px));
     gap: 20px;
     padding: 30px 1px 0px 1px;
 }

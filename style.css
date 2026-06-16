@@ -1036,8 +1036,8 @@ footer nav a {
 
 @media (max-width: 500px) {
     .manuale1 {
-    width: 160px;
-    height: 300px;
+    width: 145px;
+    height: 260px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -1052,8 +1052,8 @@ footer nav a {
 }
 
 .manuale1 img {
-    width: 110px;
-    height: 150px;
+    width: 90px;
+    height: 140px;
     object-fit: cover;
     margin: 0 auto;
     object-position: center center;
@@ -1068,8 +1068,8 @@ footer nav a {
     justify-items: center;
     align-items: center;
     align-content: start;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 160px));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 150px));
+    gap: 18px;
     padding: 30px 1px 0px 1px;
 }
 

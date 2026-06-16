@@ -191,7 +191,7 @@ header li {
 
 .manuale:hover {
     background-color: #ECECEC;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.50);
     transform: translateY(-4px) scale(105%);
 }
 
@@ -381,7 +381,7 @@ header li {
 
 .manuale1:hover {
     background-color: #ECECEC;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.50);
     transform: translateY(-4px) scale(105%);
 }
 
@@ -549,7 +549,7 @@ header li {
 
 .manuale2:hover {
     background-color: #ECECEC;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.50);
     transform: translateY(-4px) scale(105%);
 }
 
@@ -1023,7 +1023,7 @@ footer nav a {
     align-items: center;
     align-content: start;
     grid-template-columns: repeat(auto-fit, minmax(140px, 140px));
-    gap: 10px;
+    gap: 20px;
     padding: 54px 0px;
 }
 .section.grid p {

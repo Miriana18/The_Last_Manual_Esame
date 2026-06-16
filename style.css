@@ -589,7 +589,7 @@ header a {
     justify-items: center;
     align-items: center;
     align-content: start;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 260px));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 250px));
     gap: 50px;
     padding: 54px 16px;
 }
@@ -1009,7 +1009,7 @@ footer nav a {
     justify-items: center;
     align-items: center;
     align-content: start;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 130px));
+    grid-template-columns: repeat(auto-fit, minmax(170px, 170px));
     gap: 50px;
     padding: 54px 16px;
 }

@@ -265,7 +265,7 @@ header a {
     justify-items: center;
     align-items: center;
     align-content: start;
-    gap: 15px;
+    gap: 0px;
     padding: 54px 90px;
 }
 

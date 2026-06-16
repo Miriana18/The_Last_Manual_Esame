@@ -262,7 +262,7 @@ header a {
     align-items: center;
     align-content: start;
     gap: 15px;
-    padding: 54px 16px;
+    padding: 54px 90px;
 }
 
     .scritte_informazioni_info p {
@@ -1026,7 +1026,12 @@ footer nav a {
     .centro_della_Categoria {
         grid-template-columns: 1fr;
     }
-    
+    .scritte_informazioni_info h2 {
+    font-size: 20px;
+    font-weight: normal;
+    padding-top: 10px;
+    line-height: 140%
+    }
 }
 
 @media (max-width: 500px) {

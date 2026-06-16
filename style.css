@@ -757,6 +757,15 @@ header a {
     margin-top: 100px;
 }
 
+.fondo_lingue h1 {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    justify-content: center;
+    justify-items: center;
+    font-size: 34px;
+    font-family: instrument sans, sans-serif;
+}
+
 .fondo_lingue img {
     width: 500px;
     height: 290px;
@@ -990,6 +999,7 @@ footer nav a {
     border: 2px solid #ffffff;
     content: fit-content
 }
+
 .TestoInformativoMe {
     padding: 10%;
     padding-top: 20%;
@@ -1061,6 +1071,10 @@ footer nav a {
     padding-top: 10px;
     line-height: 140%
     }
+    .fondo_lingue h1 {
+    font-size: 22px;
+    font-family: instrument sans, sans-serif;
+}
 }
 
 @media (max-width: 500px) {
